@@ -1,16 +1,25 @@
-## Hi there 👋
+# gitsana111
 
-<!--
-**gitsana111/gitsana111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation builder focused on financial workflows and operational intelligence.
 
-Here are some ideas to get you started:
+Creator of **MBANK Next21**, an automation system connecting LINE, Google Drive, and Notion to streamline financial operations and audit-friendly workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### MBANK Next21 Automation Core
+Event-driven automation system for receipt intake, storage, logging, and daily financial summaries.
+
+Tech stack:
+- LINE Messaging API
+- Make.com
+- Google Drive
+- Notion
+- Event-driven automation
+
+## Focus Areas
+
+- Financial Automation
+- Workflow Systems
+- Event-Driven Architecture
+- Operational Intelligence
+
